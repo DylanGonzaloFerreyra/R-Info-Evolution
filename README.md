@@ -12,7 +12,7 @@
 Para mantener el orden y la utilidad del repositorio, el proyecto se divide de la siguiente manera:
 
 * **`main` (Usted está aquí):** Contiene la versión estable **R-Info 3.1** lista para descargar y usar, junto con toda la documentación necesaria para ayudar a los estudiantes en su cursada actual. Por ahora, esta rama no incluye cambios en el código original.
-* **[`dev`](https://www.google.com/search?q=%5Bhttps://github.com/DylanGonzaloFerreyra/R-Info-Evolution/tree/dev%5D(https://github.com/DylanGonzaloFerreyra/R-Info-Evolution/tree/dev)):** Es donde ocurre la "Evolución". En esta rama estoy trabajando activamente en:
+* **[`dev`](https://github.com/DylanGonzaloFerreyra/R-Info-Evolution/tree/dev)):** Es donde ocurre la "Evolución". En esta rama estoy trabajando activamente en:
     * Modernización de la interfaz de usuario (UI).
     * Añadir nuevos comandos.
     * Integración de ayudas y documentación dinámica dentro del programa.
