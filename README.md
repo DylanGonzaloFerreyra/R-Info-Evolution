@@ -27,7 +27,7 @@ Para comenzar a utilizar el entorno, debés usar el archivo **`r-Info3.1.jar`** 
 
 ### Para Windows
 
-1. **Ejecución:** Dale doble click al archivo `r-Info3.1.jar`.
+1. **Ejecución:** Dale doble click al archivo [`r-Info3.1.jar`](https://github.com/DylanGonzaloFerreyra/R-Info-Evolution/blob/main/r-Info3.1.jar).
 2. **Si no abre:** Click derecho -> *Abrir con...* -> seleccioná *Java Runtime Environment*.
 
 **Nota:** Asegurate de tener Java instalado. Si no lo tenés, podés [descargarlo aquí](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251639_7ed26d28139143f38c58992680c214a5).
