@@ -1,5 +1,5 @@
 
-# R-Info-Evolution (v3.1 + Docs)
+# R-Info-Evolution (Docs)
 
 **R-Info-Evolution** es una revitalización y modernización del clásico entorno de programación R-info utilizado en la Facultad de Informática de la UNLP. Este proyecto toma una herramienta educativa fundamental y la adapta a los estándares de desarrollo actuales, optimizando su arquitectura, mejorando el rendimiento y facilitando su uso para las nuevas generaciones de estudiantes de programación y lógica.
 
@@ -11,8 +11,8 @@
 
 Para mantener el orden y la utilidad del repositorio, el proyecto se divide de la siguiente manera:
 
-* **`main` (Usted está aquí):** Contiene la versión estable **R-Info 3.1** lista para descargar y usar, junto con toda la documentación necesaria para ayudar a los estudiantes en su cursada actual. Por ahora, esta rama no incluye cambios en el código original.
-* **[`dev`](https://www.google.com/search?q=%5Bhttps://github.com/DylanGonzaloFerreyra/R-Info-Evolution/tree/dev%5D(https://github.com/DylanGonzaloFerreyra/R-Info-Evolution/tree/dev)):** Es donde ocurre la "Evolución". En esta rama estoy trabajando activamente en:
+* **[`main`](https://github.com/DylanGonzaloFerreyra/R-Info-Evolution/tree/main):** Contiene la versión estable **R-Info 3.1** lista para descargar y usar, junto con toda la documentación necesaria para ayudar a los estudiantes en su cursada actual. Por ahora, esta rama no incluye cambios en el código original.
+* **[`dev`(Usted está aquí):** Es donde ocurre la "Evolución". En esta rama estoy trabajando activamente en:
     * Modernización de la interfaz de usuario (UI).
     * Añadir nuevos comandos.
     * Integración de ayudas y documentación dinámica dentro del programa.
@@ -23,11 +23,11 @@ Para mantener el orden y la utilidad del repositorio, el proyecto se divide de l
 
 *Adaptado de la guía original de [laFuenteUNLP](https://www.google.com/search?q=https://github.com/laFuenteUNLP/R-info_Ingresantes.2025).*
 
-Para comenzar a utilizar el entorno, debés usar el archivo **`r-Info3.1.jar`** que se encuentra en la raíz de este repositorio. Funciona tanto en Windows como en Linux.
+Para comenzar a utilizar el entorno, debés usar el archivo **`R-Info-Evolution.jar`** que se encuentra en la raíz de este repositorio. Funciona tanto en Windows como en Linux.
 
 ### Para Windows
 
-1. **Ejecución:** Dale doble click al archivo `r-Info3.1.jar`.
+1. **Ejecución:** Dale doble click al archivo [`R-Info-Evolution.jar`](https://github.com/DylanGonzaloFerreyra/R-Info-Evolution/blob/dev/R-Info-Evolution.jar).
 2. **Si no abre:** Click derecho -> *Abrir con...* -> seleccioná *Java Runtime Environment*.
 
 **Nota:** Asegurate de tener Java instalado. Si no lo tenés, podés [descargarlo aquí](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=251639_7ed26d28139143f38c58992680c214a5).
@@ -44,8 +44,8 @@ sudo apt install default-jre
 
 2. **Permisos y ejecución:**
 ```bash
-chmod +x r-Info3.1.jar
-java -jar r-Info3.1.jar
+chmod +x R-Info-Evolution.jar
+java -jar R-Info-Evolution.jar
 
 ```
 
